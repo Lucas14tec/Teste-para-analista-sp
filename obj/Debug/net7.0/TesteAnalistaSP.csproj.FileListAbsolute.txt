@@ -1,0 +1,15 @@
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\bin\Debug\net7.0\TesteAnalistaSP.exe
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\bin\Debug\net7.0\TesteAnalistaSP.deps.json
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\bin\Debug\net7.0\TesteAnalistaSP.runtimeconfig.json
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\bin\Debug\net7.0\TesteAnalistaSP.dll
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\bin\Debug\net7.0\TesteAnalistaSP.pdb
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.csproj.AssemblyReference.cache
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.AssemblyInfoInputs.cache
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.AssemblyInfo.cs
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.csproj.CoreCompileInputs.cache
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.dll
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\refint\TesteAnalistaSP.dll
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.pdb
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\TesteAnalistaSP.genruntimeconfig.cache
+C:\Users\samal\OneDrive\Documentos\Lucas\Teste2\TesteAnalistaSP\obj\Debug\net7.0\ref\TesteAnalistaSP.dll
