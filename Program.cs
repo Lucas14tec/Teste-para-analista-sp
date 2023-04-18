@@ -4,8 +4,15 @@ internal class Program{
     private static void Main (string[] args){
 
         Console.WriteLine("Questão da Sequência de Fibonacci:");
-
         QuestionFibo();
+
+        Console.WriteLine("Questão sobre faturamento mensal:");
+        QuestionFaturamento();
+
+        Console.WriteLine("Questão do carro e do caminhão:");
+        QuestionTruck();
+
+
 
 
         static void QuestionFibo(){
@@ -65,5 +72,46 @@ internal class Program{
                 }
                 //--------------------------------------//   
         }
+     static void QuestionFaturamento(){
+            //Dados da questão em variáveis
+            float porcSP = 67836.43f;
+            float porcRJ = 36678.66f;
+            float porcMG = 29229.88f;
+            float porcES = 27165.48f;
+            float porcOU = 19849.53f;
+            //--------------------------------------//
+
+            //Variáveis para o laço de repetição
+            float[] empMensal = {porcSP, porcRJ, porcMG, porcES, porcOU};
+
+            float perc100 = empMensal.Sum();
+
+            float[] emptotal = new float[5];
+            //--------------------------------------//
+            
+            //Laço de repetição para calcular a porcentagem
+            for (int cont = 0; cont < empMensal.Length; cont++){
+                float porcentagem = (100 * empMensal[cont]) / perc100;
+                emptotal[cont] =  porcentagem;
+                Console.WriteLine($"A porcentagem do {cont+1}° é: {emptotal[cont]} % ");
+            }
+            //--------------------------------------//    
     }
+
+    }
+            static void QuestionTruck(){
+            int car = 110;
+            int truck = 80;
+            int ribeirao = 100;
+            float carPass = ribeirao / car;
+            float truckPass = ribeirao - truck;
+            float truckPassNoPed = ribeirao / 80;
+            float pedTruck = 0.17f;
+            float truckTravel = 1.25f;
+            float timeTravelWithPed = pedTruck + truckTravel;
+            float speedTruck = ribeirao / timeTravelWithPed;
+
+            float calc = (car * ribeirao)/(car + speedTruck);
+            Console.WriteLine(calc);
+        }
 }
